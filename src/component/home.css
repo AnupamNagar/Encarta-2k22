@@ -1,0 +1,9 @@
+.home{
+    font-family: 'Reggae One', cursive;
+}
+.home::-webkit-scrollbar {
+    display: none;
+}
+/* .theme{
+    font-family: 'Reggae One', cursive;
+} */
